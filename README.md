@@ -109,7 +109,7 @@ A responsive personal portfolio showcasing my skills, projects, and resume.
 - 📧 Email: **sanjais2908@gmail.com**
 - 📱 Phone: **9003084706**
 - 💼 LinkedIn: https://www.linkedin.com/in/sanjai-s-6270b4261
-- 🌐 Portfolio: https://your-portfolio-link.vercel.app
+- 🌐 Portfolio: https://sanjai2908.github.io/portfolio-website/
 
 ---
 
