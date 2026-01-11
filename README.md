@@ -11,10 +11,11 @@
 
 ### 🚀 Projects
 - 🔴 Blood Donation Management System  
-- 📚 Online Book Store Website  
+- 📚 ShopEasy Website  
 - 🌐 Personal Portfolio Website  
 
 ### 📫 Contact
 - Email: sanjais2908@gmail.com
 - Portfolio: https://your-portfolio-link.vercel.app
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: www.linkedin.com/in/sanjai2908
+
