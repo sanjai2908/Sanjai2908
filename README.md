@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Sanjai S
 
-<!--
-**sanjai2908/Sanjai2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science Student  
+💻 Aspiring Full Stack Developer  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- HTML, CSS, JavaScript
+- React, Node.js
+- MongoDB, Git
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🔴 Blood Donation Management System  
+- 📚 Online Book Store Website  
+- 🌐 Personal Portfolio Website  
+
+### 📫 Contact
+- Email: sanjais2908@gmail.com
+- Portfolio: https://your-portfolio-link.vercel.app
+- LinkedIn: https://linkedin.com/in/your-link
